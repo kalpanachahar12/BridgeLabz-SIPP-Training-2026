@@ -1,4 +1,4 @@
-
+package level1;
 import java.util.*;
 public class MultiplicationTableSegment {
     public static void main(String[] args) {
