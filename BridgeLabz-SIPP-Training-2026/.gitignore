@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+.github/
+*.class
+.Trash/
+.CFUserTextEncoding
