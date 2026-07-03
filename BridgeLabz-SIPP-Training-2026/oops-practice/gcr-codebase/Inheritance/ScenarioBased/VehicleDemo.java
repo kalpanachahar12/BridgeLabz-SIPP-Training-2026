@@ -35,7 +35,7 @@ class PetrolVehicle extends Vehicle implements Refuelable {
     }
 }
 
-public class Vehicle {
+public class VehicleDemo {
     public static void main(String[] args) {
 
         ElectricVehicle ev = new ElectricVehicle(150, "Tesla");
