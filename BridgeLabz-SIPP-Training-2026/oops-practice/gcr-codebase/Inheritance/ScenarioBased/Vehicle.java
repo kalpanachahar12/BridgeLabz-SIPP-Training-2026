@@ -1,3 +1,4 @@
+package ScenarioBased;
 interface Refuelable {
     void refuel();
 }

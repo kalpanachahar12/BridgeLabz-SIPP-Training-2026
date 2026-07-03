@@ -1,3 +1,4 @@
+package ScenarioBased;
 class Order {
     int orderId;
     String orderDate;

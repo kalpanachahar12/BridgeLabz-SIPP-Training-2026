@@ -1,3 +1,4 @@
+package ScenarioBased;
 class Person {
     String name;
     int age;
